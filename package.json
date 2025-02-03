@@ -1,0 +1,23 @@
+{
+  "name": "5f5hari",
+  "version": "1.0.4",
+  "description": "Hello Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hari",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srihari0724/npm-package.git"
+  },
+  "keywords": [
+    "demo",
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/srihari0724/npm-package/issues"
+  },
+  "homepage": "https://github.com/srihari0724/npm-package#readme"
+}
